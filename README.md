@@ -5,4 +5,4 @@ CheatEye for Windows Client.
 
 This is closed source, and it will release the binary file only.
 
-[Releases](https://github.com/rht0910/CheatEyeClient/releases)
+[Recommended release](https://github.com/rht0910/CheatEyeClient/releases/tags/v0.0.1)
